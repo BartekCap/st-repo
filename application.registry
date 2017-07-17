@@ -2,4 +2,5 @@ App: RoomManagerapp
 Controllers: MainController
 Windows: ConfigurationWindow
 WebServices: RoomsWebServices, BuildingsWebService
+task 4 - changed
 
